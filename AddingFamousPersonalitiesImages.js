@@ -1,4 +1,3 @@
-<script type="text/javascript">
 function displayImages()
 {
   var d = new Date();
@@ -16,5 +15,3 @@ function displayImages()
   code = code + "<img src=\"https://2.bp.blogspot.com/-RyQh6_vd4Qw/WVfbiY-UhSI/AAAAAAAAASU/LLBdJvBy3tM0aYiH6Klb4loYi0PguGMBgCLcBGAs/s320/Teacher.png\" height=\"65\" width=\"65\"/>";
   document.getElementById("pplotd").innerHTML = code;
 }
-</script>
-<a id='pplotd'><script>displayImages()</script></a>
